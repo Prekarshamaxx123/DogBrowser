@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="DogBrowser Banner" width="100%" />
-</p>
+
 
 <h1 align="center">
   <img src="assets/logo.png" width="48" align="center" alt="" /> DogBrowser
