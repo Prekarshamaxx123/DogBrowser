@@ -108,8 +108,8 @@ DogBrowser
 ### Manual Install
 
 ```bash
-git clone https://github.com/Prekarshamaxx123/dog-browser.git
-cd dog-browser
+git clone https://github.com/Prekarshamaxx123/DogBrowser.git
+cd DogBrowser
 python -m venv .venv
 
 # Windows
