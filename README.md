@@ -86,8 +86,8 @@ DogBrowser is a **terminal-based web browser** built with Python and the [Textua
 
 ```bash
 # Clone the repository
-git clone https://github.com/Prekarshamaxx123/dog-browser.git
-cd dog-browser
+git clone https://github.com/Prekarshamaxx123/DogBrowser.git
+cd DogBrowser
 
 # Run the interactive installer
 python installer.py
