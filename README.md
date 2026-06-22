@@ -154,6 +154,7 @@ python main.py
 - **Edit HTML live**: Press `F7` → click "Edit HTML" → modify → Apply & Re-render
 
 ---
+<img width="1892" height="1006" alt="image" src="https://github.com/user-attachments/assets/91aa1bde-ad08-42b0-9fcb-1fae05f7e19d" />
 
 ## 🤝 Support
 
